@@ -1,2 +1,4 @@
-# Ola-Mundo
- Primeiro repositorio versionado
+# Olá, Mundo!
+ Primeiro repositorio versionado. 
+
+ Aprendendo a usar o GutHub
